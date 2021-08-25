@@ -1,5 +1,6 @@
 ---
 title: Yangkun Zhou
+role: test
 avatar_filename: avatar.png
 social:
   - display:
@@ -15,5 +16,5 @@ education:
 email: zhouyk@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - Alumni
+  - Visitors
 ---
