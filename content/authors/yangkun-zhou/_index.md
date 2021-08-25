@@ -1,6 +1,5 @@
 ---
 title: Yangkun Zhou
-role: Doctoral Student
 avatar_filename: avatar.png
 social:
   - display:
@@ -16,5 +15,5 @@ education:
 email: zhouyk@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - Researchers
+  - Alumni
 ---
