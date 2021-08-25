@@ -4,10 +4,7 @@ role: Professor of Organic Chemistry
 avatar_filename: avatar.jpg
 bio: My research interests include organic synthesis oriented metal-organic
   chemistry, homogeneous catalysis reaction and its mechanism.
-interests:
-  - Professor,  Chemistry Department, USTC
-  - Ph.D. Superviso
-  - JSPS Fellow
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,7 +29,7 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-work_experience:
+interests:
   courses:
     - course: Professor, Ph.D. Supervisor
       institution: Chemistry Department, USTC,  Hefei National Laboratory for Physical
@@ -44,5 +41,7 @@ work_experience:
     - course: JSPS Fellow
       institution: Research Center for Material Science, Nagoya University
       year: 2004.9-2008.3
+      
 ---
+
 Hanmin Huang is a professor of [the School of Chemistry and Materials Science in USTC](<https://scms.ustc.edu.cn/>). His research interests include organic synthesis oriented metal-organic chemistry, homogeneous catalysis reaction and its mechanism. He leads Huang LAB, which focuses mostly on inert chemical bond activation and asymmetrical catalyzing.
