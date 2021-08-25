@@ -17,7 +17,9 @@ abstract: "we report the development of an additive-free, palladium-catalyzed
   alcohols as well as water. "
 draft: false
 featured: false
-tags: []
+tags:
+  - N
+  - O-acetal
 image:
   filename: ja1c06144_0009.jpg
   focal_point: Smart
