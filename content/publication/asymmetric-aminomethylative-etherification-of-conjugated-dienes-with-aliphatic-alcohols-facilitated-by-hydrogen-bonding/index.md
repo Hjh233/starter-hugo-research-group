@@ -17,10 +17,9 @@ abstract: "we report the development of an additive-free, palladium-catalyzed
   alcohols as well as water. "
 draft: false
 featured: false
-tags:
-  - asymmetric O-allylation
+tags: []
 image:
-  filename: null
+  filename: ja1c06144_0009.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-25T08:31:04.529Z
