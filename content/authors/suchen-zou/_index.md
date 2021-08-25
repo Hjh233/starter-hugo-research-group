@@ -15,7 +15,7 @@ education:
   courses:
     - course: BSc in Chemistry
       institution: Nanjing Tech University
-      year: 2013.9-2017.6
+      year: 20176
     - course: PhD in Organic Chemistry
       institution: University of Science and Technology of China
       year: 2017.9-
