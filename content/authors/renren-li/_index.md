@@ -16,5 +16,5 @@ education:
 email: lirr@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - researchers
+  - Researchers
 ---
