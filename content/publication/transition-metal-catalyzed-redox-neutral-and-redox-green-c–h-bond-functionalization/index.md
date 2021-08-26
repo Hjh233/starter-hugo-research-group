@@ -24,7 +24,7 @@ abstract: Transition-metal-catalyzed C–H bond functionalization has become one
 draft: false
 featured: false
 image:
-  filename: 33-tcr201500274-toc-0001-m.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2016-06-03T08:57:00.000Z
