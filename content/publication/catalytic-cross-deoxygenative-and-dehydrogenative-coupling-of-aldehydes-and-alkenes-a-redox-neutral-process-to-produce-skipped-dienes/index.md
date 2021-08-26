@@ -17,8 +17,10 @@ abstract: A novel catalytic cross deoxygenative and dehydrogenative coupling
   under oxidant-free reaction conditions.
 draft: false
 featured: false
+tags:
+  - aldehydes
 image:
-  filename: 62.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2013-08-29T13:00:43.751Z
