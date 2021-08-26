@@ -16,5 +16,5 @@ education:
 email: wadr@mail.ustc.edu.cn
 superuser: false
 user_groups:
-	- Undergraduate Students
+  - Undergraduate Students
 ---
