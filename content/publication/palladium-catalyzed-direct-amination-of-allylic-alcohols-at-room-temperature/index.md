@@ -17,8 +17,10 @@ abstract: A palladium complex ligated with Xantphos has been identified as an
   allylic amines in good to excellent yields with high stereoselectivities.
 draft: false
 featured: false
+tags:
+  - amination
 image:
-  filename: 53-i_w0635_ga_10-1055_s-0034-1379249.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2014-10-16T12:06:26.827Z
