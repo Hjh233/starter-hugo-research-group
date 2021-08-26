@@ -17,7 +17,7 @@ abstract: Pd(Xantphos)Cl2 has been identified as an efficient catalyst for the
 draft: false
 featured: false
 image:
-  filename: 52.jpg
+  filename: 52-1.jpg
   focal_point: Smart
   preview_only: false
 date: 2014-11-19T12:01:55.170Z
