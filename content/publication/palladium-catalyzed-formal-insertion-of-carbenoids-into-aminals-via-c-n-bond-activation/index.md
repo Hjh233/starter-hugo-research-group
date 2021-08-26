@@ -21,9 +21,9 @@ abstract: A new strategy for selective insertion of metal carbenes into C–N bo
 draft: false
 featured: false
 tags:
-  - C–N bond activation
+  - aminals
 image:
-  filename: 41-ja-2015-084762_0008.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2015-09-23T03:58:10.419Z
