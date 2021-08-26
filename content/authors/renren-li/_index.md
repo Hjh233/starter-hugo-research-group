@@ -12,9 +12,12 @@ education:
   courses:
     - course: BSc in Chemistry
       institution: Anhui University
-      year: 20207
+      year: 2020.07
+    - course: MSc in Organic Chemistry
+      institution: University of Science and Technology of China
+      year: 2020.09-
 email: lirr@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - Researchers
+  - Postgraduate Students
 ---
