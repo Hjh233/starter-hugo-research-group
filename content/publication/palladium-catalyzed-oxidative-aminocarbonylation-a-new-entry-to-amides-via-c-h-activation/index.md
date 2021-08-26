@@ -16,6 +16,8 @@ abstract: A novel palladium-catalyzed oxidative aminocarbonylation reaction via
   ibuprofen could be easily obtained.
 draft: false
 featured: false
+tags:
+  - aminocarbonylation
 image:
   filename: featured.jpg
   focal_point: Smart
