@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: 825817999@qq.com
+email: hanmin@ustc.edu.cn
 phone: +86-551-63600752
 address:
   street: 443 Huangshan Road
@@ -36,7 +36,9 @@ directions: Floor 6, Chemistry and Material Science Building.
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  
+# appointment_url: 'https://calendly.com'
+
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
