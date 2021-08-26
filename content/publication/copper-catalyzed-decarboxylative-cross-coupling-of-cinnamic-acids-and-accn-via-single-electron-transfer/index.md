@@ -22,7 +22,7 @@ tags:
   - β
   - γ-unsaturated nitriles
 image:
-  filename: 35.png
+  filename: 35.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-02-03T09:17:56.783Z
