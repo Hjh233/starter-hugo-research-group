@@ -19,7 +19,7 @@ abstract: A highly chemo- and regioselective 1,4-aminomethylamination of simple
 draft: false
 featured: false
 image:
-  filename: 2.gif
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-08-25T09:17:25.439Z
