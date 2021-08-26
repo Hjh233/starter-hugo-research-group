@@ -21,8 +21,10 @@ abstract: >+
 
 draft: false
 featured: false
+tags:
+  - ketazines
 image:
-  filename: 55-ol-2014-01483k_0003.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2014-06-16T12:41:11.165Z
