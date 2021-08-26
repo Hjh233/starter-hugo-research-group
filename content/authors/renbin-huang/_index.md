@@ -9,11 +9,14 @@ social:
     icon: envelope
 education:
   courses:
-    - course: Bsc in Chemistry
+    - course: BSc in Chemistry
       institution: Dalian University of Technology
       year: 2015.09-2019.06
+    - course: MSc in Chemistry
+      institution: University of Science and Technology
+      year: 2019.09-
 email: huangrb@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - Researchers
+  - Postgraduate Students
 ---
