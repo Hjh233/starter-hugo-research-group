@@ -23,8 +23,10 @@ abstract: A new strategy for tuning the electron transfer between radicals and
   development of a broad range of radical-based reactions.
 draft: false
 featured: false
+tags:
+  - AIBN
 image:
-  filename: 47-mcontent.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2015-03-25T10:02:07.660Z
