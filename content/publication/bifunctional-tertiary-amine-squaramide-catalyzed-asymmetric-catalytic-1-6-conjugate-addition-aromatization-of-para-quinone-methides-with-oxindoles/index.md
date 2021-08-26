@@ -24,7 +24,7 @@ featured: false
 tags:
   - amine-squaramide
 image:
-  filename: 39.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-02-16T03:13:44.747Z
