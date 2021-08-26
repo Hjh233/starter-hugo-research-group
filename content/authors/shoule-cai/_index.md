@@ -4,12 +4,11 @@ avatar_filename: avatar.png
 social:
   - display:
       header: false
-    link: shoulec@mail.ustc.edu.cn
+    link: mailto:shoulec@mail.ustc.edu.cn
     icon_pack: fas
     icon: envelope
 education:
-  courses:
-    - course:
+  courses: []
 email: shoulec@mail.ustc.edu.cn
 superuser: false
 user_groups:
