@@ -2,7 +2,6 @@
 title: Hacheng Zhang
 role: Postgraduate Student
 avatar_filename: avatar.jpg
-organizations:
 superuser: true
 social:
   - icon: envelope
@@ -19,6 +18,6 @@ education:
     
 email: haocheng.z@mail.ustc.edu.cn
 user_groups:
-  - Postgraduate Student
+  - Postgraduate Students
 
 ---
