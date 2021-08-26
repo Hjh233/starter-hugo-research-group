@@ -15,9 +15,9 @@ education:
       institution: Jinan University
     - course: PhD in Organic Chemistry
       year: 2014.09-2020.06
-      institution: University of Science and Technology of China
+      institution: University of Science and Technology of China, Huang LAB
 email: ybk@ustc.edu.cn
 superuser: false
 user_groups:
-  - Researchers
+  - Postdoctoral Scholars
 ---
