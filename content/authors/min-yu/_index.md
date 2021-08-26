@@ -18,5 +18,5 @@ education:
 email: minyu@nuaa.edu.cn
 superuser: false
 user_groups:
-  - Researchers
+  - Post Doctoral Scholars
 ---
