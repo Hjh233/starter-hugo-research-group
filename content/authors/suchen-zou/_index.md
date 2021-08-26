@@ -2,9 +2,6 @@
 title: Suchen Zou
 role: Doctoral Student
 avatar_filename: avatar.jpg
-bio:
-  - Chiral ligand
-  - Asymetric synthesis
 social:
   - display:
       header: false
