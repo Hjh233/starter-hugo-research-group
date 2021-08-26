@@ -22,7 +22,7 @@ content:
   - PhD Students
   - Postgraduate Students
   - Undergraduate Students
-  - Administration
+  - Faculty
   - Visitors
   - Alumni
 design:
