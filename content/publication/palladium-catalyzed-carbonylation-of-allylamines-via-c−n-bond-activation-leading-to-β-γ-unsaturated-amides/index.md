@@ -16,6 +16,8 @@ abstract: Pd(Xantphos)Cl2 has been identified as an efficient catalyst for the
   yields under relatively mild conditions.
 draft: false
 featured: false
+tags:
+  - allylamines
 image:
   filename: featured.jpg
   focal_point: Smart
