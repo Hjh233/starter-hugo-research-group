@@ -20,7 +20,7 @@ featured: false
 tags:
   - C-N bond activation
 image:
-  filename: 36.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-03-07T02:54:43.838Z
