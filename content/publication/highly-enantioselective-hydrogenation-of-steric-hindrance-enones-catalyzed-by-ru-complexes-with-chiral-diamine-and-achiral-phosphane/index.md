@@ -18,8 +18,10 @@ abstract: An asymmetric hydrogenation of sterically hindered β,β-disubstituted
   alcohols with high levels of enantioselectivity and complete chemoselectivity.
 draft: false
 featured: false
+tags:
+  - asymmetric hydrogenation
 image:
-  filename: 56-ol-2014-01648a_0010.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2014-07-23T12:43:12.161Z
