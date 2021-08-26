@@ -17,7 +17,7 @@ featured: false
 tags:
   - indole synthesis
 image:
-  filename: 1629882170-1-.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-07-06T13:00:00.000Z
