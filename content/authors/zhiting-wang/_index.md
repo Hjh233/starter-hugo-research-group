@@ -22,5 +22,5 @@ education:
 email: wztsdqw@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - Researchers
+  - PhD Students
 ---
