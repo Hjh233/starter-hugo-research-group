@@ -2,7 +2,7 @@
 title: Suchen Zou
 role: Doctoral Student
 avatar_filename: avatar.jpg
-interests:
+bio:
   - Chiral ligand
   - Asymetric synthesis
 social:
@@ -15,12 +15,12 @@ education:
   courses:
     - course: BSc in Chemistry
       institution: Nanjing Tech University
-      year: 20176
+      year: 2013.9-2017.6
     - course: PhD in Organic Chemistry
       institution: University of Science and Technology of China
       year: 2017.9-
 email: sczou@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - Researchers
+  - PhD Students
 ---
