@@ -21,8 +21,10 @@ abstract: Diboron (B2pin2) has been identified as an efficient and
   and the substituent effect (ρ = 1.43) on this reaction were obtained.
 draft: false
 featured: false
+tags:
+  - Diboron
 image:
-  filename: 49.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2014-12-11T11:50:08.947Z
