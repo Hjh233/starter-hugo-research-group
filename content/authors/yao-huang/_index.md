@@ -19,6 +19,6 @@ education:
     
 email: hangyao@mail.ustc.edu.cn
 user_groups:
-  - Researchers
+  - PhD Students
 
 ---
