@@ -20,8 +20,10 @@ abstract: A new strategy was developed for intercepting the palladium-alkyl
   crucial for this unusual transformation.
 draft: false
 featured: false
+tags:
+  - ethers
 image:
-  filename: 61-ja-2013-10611b_0009.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2013-11-20T12:58:11.725Z
