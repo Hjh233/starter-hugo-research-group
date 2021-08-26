@@ -19,7 +19,7 @@ featured: false
 tags:
   - alkynes
 image:
-  filename: 34-1-s2.0-s1872206715610579-fx35.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-04-11T09:11:04.072Z
