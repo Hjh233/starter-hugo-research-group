@@ -5,6 +5,18 @@ avatar_filename: avatar.jpg
 bio: My research interests include organic synthesis oriented metal-organic
   chemistry, homogeneous catalysis reaction and its mechanism.
 
+interests:
+  courses:
+    - course: PhD in Chemistry
+      institution: Dalian Institute of Chemical Physics (DICP), CAS
+      year: 2000.9-2003.10
+    - course: MEng in Chemistry
+      institution: Huazhong University of Science and Techonology
+      year: 1997.6-2000.7
+    - course: BSc in Soil Chemistry
+      institution: Hubei Agricultural College
+      year: 1993.9-1996.7
+
 social:
   - icon: envelope
     icon_pack: fas
