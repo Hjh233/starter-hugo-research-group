@@ -21,7 +21,7 @@ tags:
   - N
   - O-acetal
 image:
-  filename: ja1c06144_0009.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-25T08:31:04.529Z
