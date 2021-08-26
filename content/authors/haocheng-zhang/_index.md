@@ -1,5 +1,5 @@
 ---
-title: Hacheng Zhang
+title: Haocheng Zhang
 role: Postgraduate Student
 avatar_filename: avatar.jpg
 superuser: true
@@ -7,6 +7,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: hangyao@mail.ustc.edu.cn
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=GSeyTZUAAAAJ&hl=zh-CN
 education:
   courses:
     - course: MSc in Organic Chemistry
