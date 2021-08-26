@@ -14,5 +14,5 @@ education:
 email: 695698498@qq.com
 superuser: false
 user_groups:
-  - Researchers
+  - Postgraduate Students
 ---
