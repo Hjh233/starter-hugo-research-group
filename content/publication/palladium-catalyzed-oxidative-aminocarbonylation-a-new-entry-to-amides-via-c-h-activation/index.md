@@ -17,7 +17,7 @@ abstract: A novel palladium-catalyzed oxidative aminocarbonylation reaction via
 draft: false
 featured: false
 image:
-  filename: 64-ol-2013-01419u_0008.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2013-06-17T13:05:02.547Z
