@@ -16,8 +16,10 @@ abstract: A rhodium(III)-catalyzed direct selective C-2 alkenylation reaction of
   indoles and pyrroles.
 draft: false
 featured: false
+tags:
+  - alkenylation
 image:
-  filename: 60-mcontent.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2014-04-15T12:53:58.456Z
