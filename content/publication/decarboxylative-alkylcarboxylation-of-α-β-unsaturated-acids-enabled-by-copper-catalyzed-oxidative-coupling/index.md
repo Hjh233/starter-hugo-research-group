@@ -25,7 +25,7 @@ featured: false
 tags:
   - alkylcarboxylation
 image:
-  filename: 40-ol-2015-023824_0010.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2015-09-29T03:19:22.904Z
