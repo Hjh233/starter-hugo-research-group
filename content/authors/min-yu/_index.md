@@ -2,7 +2,7 @@
 title: Min Yu
 avatar_filename: avatar.png
 social: 
-  - display;
+  - display:
       header: false
     link: minyu@nuaa.edu.cn
     icon_pack: fas
