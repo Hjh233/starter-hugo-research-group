@@ -11,16 +11,14 @@ authors:
   - 吳恩達
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-  
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: hanmin@ustc.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
