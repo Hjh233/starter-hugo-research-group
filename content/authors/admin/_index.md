@@ -27,7 +27,7 @@ education:
 email: hanmin@ustc.edu.cn
 superuser: true
 user_groups:
-  - Researchers
+  - Professor
 highlight_name: false
 
       
