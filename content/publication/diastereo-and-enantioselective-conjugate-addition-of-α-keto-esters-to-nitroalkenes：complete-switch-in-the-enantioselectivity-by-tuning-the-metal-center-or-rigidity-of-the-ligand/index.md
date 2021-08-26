@@ -21,8 +21,10 @@ abstract: A series of efficient catalytic systems has been developed to control
   the tuning of the rigidity of the chiral diamine ligand (94% ee vs 94% ee).
 draft: false
 featured: false
+tags:
+  - nitroalkenes
 image:
-  filename: 51-1-s2.0-s1872206714601996-fx1.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2015-01-20T11:58:20.423Z
