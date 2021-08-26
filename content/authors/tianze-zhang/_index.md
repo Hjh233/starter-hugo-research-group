@@ -9,11 +9,15 @@ social:
     icon: envelope
 education:
   courses:
-    - year: 2016
+    - year: 2016.09-2020.06
       course: BSc in Chemistry
+      institution: University of Science and Technology of China
+  courses:
+    - year: 2020.09-
+      course: MSc in Organic Chemistry
       institution: University of Science and Technology of China
 email: trayzel@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - Researchers
+  - Postgraduate Students
 ---
