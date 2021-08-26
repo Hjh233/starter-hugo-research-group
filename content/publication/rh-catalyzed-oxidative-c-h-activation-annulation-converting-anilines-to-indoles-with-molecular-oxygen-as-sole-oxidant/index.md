@@ -16,8 +16,10 @@ abstract: A practical and efficient Rh(III)-catalyzed aerobic C–H activation h
   conditions and used environmentally friendly oxygen as the sole clear oxidant.
 draft: false
 featured: false
+tags:
+  - C–H activation
 image:
-  filename: 59.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2014-03-03T12:50:15.282Z
