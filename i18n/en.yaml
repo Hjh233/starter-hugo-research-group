@@ -96,7 +96,7 @@
 # About widget
 
 - id: interests
-  translation: Work Experience
+  translation: Interests
 
 - id: work_experience
   translation: Work Experience
