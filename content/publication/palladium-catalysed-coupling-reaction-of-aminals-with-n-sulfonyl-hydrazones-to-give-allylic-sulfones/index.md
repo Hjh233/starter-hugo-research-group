@@ -22,7 +22,7 @@ featured: false
 tags:
   - aminals
 image:
-  filename: 37.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2015-12-22T03:04:39.650Z
