@@ -19,8 +19,10 @@ abstract: A novel and efficient Rh/O2 catalytic system has been developed and
   oxidation of Rh(I) to Rh(III) by molecular oxygen facilitated by acid.
 draft: false
 featured: false
+tags:
+  - C–H activation
 image:
-  filename: 63-ja-2013-04414q_0008.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2013-06-06T13:03:04.149Z
