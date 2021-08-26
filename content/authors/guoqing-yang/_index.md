@@ -1,6 +1,6 @@
 ---
 title: Guoqing Yang
-role: Posrgraduate
+role: Postgraduate
 avatar_filename: avatar.jpg
 social:
   - display:
