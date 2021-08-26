@@ -23,7 +23,7 @@ featured: false
 tags:
   - amines
 image:
-  filename: 38-1-s2.0-s004040391530441x-fx1.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-01-20T03:08:28.201Z
