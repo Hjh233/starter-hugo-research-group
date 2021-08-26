@@ -19,8 +19,10 @@ abstract: A novel copper(II)-catalyzed, regioselective C–H benzylation of enon
   regioselectively reacts with enones to deliver the corresponding products.
 draft: false
 featured: false
+tags:
+  - Enones
 image:
-  filename: 46-cs-2015-003109_0007.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2015-03-31T09:54:52.013Z
