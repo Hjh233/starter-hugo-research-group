@@ -21,7 +21,7 @@ tags:
   - α
   - β-unsaturated-γ-lactams
 image:
-  filename: 42-1-s2.0-s0040403915013386-fx1.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2015-10-07T04:01:54.874Z
