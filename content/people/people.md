@@ -19,6 +19,7 @@ content:
   - Principal Investigators
   - Researchers
   - Professor
+  - Postdoctoral Scholars
   - PhD Students
   - Postgraduate Students
   - Undergraduate Students
