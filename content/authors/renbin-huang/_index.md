@@ -4,7 +4,7 @@ avatar_filename: avatar.png
 social:
   - display:
       header: false
-    link: huangrb@mail.ustc.edu.cn
+    link: mailto:huangrb@mail.ustc.edu.cn
     icon_pack: fas
     icon: envelope
 education:
