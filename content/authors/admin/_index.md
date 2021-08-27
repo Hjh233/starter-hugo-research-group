@@ -14,6 +14,7 @@ social:
       header: false
 organizations:
   - name: University of Science and Technology of China
+ 
 education:
   courses:
     - course: PhD in Chemistry
@@ -25,6 +26,7 @@ education:
     - course: BSc in Soil Chemistry
       institution: Hubei Agricultural College
       year: 1993.9-1996.7
+      
 email: hanmin@ustc.edu.cn
 superuser: true
 user_groups:
