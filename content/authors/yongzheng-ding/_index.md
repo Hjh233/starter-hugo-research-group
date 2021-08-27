@@ -4,7 +4,7 @@ avatar_filename: avatar.png
 social: 
   - display:
       header: false
-    link: dingyz@ustc.edu.cn
+    link: mailto:dingyz@ustc.edu.cn
     icon_pack: fas
     icon: envelope
 Interest:
