@@ -16,5 +16,5 @@ education:
 email: zchy0763@163.com
 superuser: false
 user_group:
-  - Undergraduates
+  - Undergraduate Students
 ---
