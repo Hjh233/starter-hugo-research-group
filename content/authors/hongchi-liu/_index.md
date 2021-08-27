@@ -7,7 +7,7 @@ social:
       header: false
     icon_pack: fas
     icon: envelope
-    link: lhc99@mail.ustc.edu.cn
+    link: mailto:lhc99@mail.ustc.edu.cn
 education:
   courses:
     - course: BSc in Chemistry
