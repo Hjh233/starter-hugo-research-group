@@ -5,7 +5,7 @@ avatar_filename: avatar.png
 social: 
   - display:
       header: false
-    link: wztsdqw@mail.ustc.edu.cn
+    link: mailto:wztsdqw@mail.ustc.edu.cn
     icon_pack: fas
     icon: envelope
 education:
