@@ -7,7 +7,7 @@ superuser: false
 social:
   - icon: envelope
     icon_pack: fas
-    link: hangyao@mail.ustc.edu.cn
+    link: mailto:hangyao@mail.ustc.edu.cn
 education:
   courses:
     - course: PhD in Organic Chemistry
