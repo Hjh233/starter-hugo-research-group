@@ -7,6 +7,7 @@ authors:
   - Jiawen Li
   - Bo Qian
   - Hanmin Huang
+doi: 10.1021/acs.orglett.8b03040
 publication: Organic Letters
 abstract: The first silver-catalyzed reaction of acetals or ketals with
   diazoesters leading to trisubstituted or tetrasubstituted β-alkoxyacrylates is
