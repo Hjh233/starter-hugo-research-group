@@ -3,7 +3,7 @@ title: Jianing Wu
 social:
   - display:
       header: false
-    link: 695698498@qq.com
+    link: mailto:695698498@qq.com
     icon_pack: fas
     icon: envelope
 education:
