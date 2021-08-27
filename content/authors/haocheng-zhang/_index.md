@@ -13,10 +13,10 @@ social:
 education:
   courses:
     - course: MSc in Organic Chemistry
-      institution: University of Science of Technology if China
+      institution: University of Science and Technology of China
       year: 2021.09-
     - course: BSc in Chemistry
-      institution: University of Science of Technology if China
+      institution: University of Science and Technology of China
       year: 2017.09-2021.06
     
 email: haocheng.z@mail.ustc.edu.cn
