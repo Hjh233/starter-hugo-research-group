@@ -7,7 +7,7 @@ social:
       header: false
     icon_pack: fas
     icon: envelope
-    link: zhouyk@mail.ustc.edu.cn
+    link: mailto:zhouyk@mail.ustc.edu.cn
 education:
   courses:
     - course: BSc in Chemistry
@@ -16,5 +16,5 @@ education:
 email: zhouyk@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - Visitors
+  - PhD Students
 ---
