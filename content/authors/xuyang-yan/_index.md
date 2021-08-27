@@ -5,7 +5,7 @@ avatar_filename: avatar.png
 social:
   - display:
       header: false
-    link: yanxuyang1994@163.com
+    link: mailto:yanxuyang1994@163.com
     icon_pack: fas
     icon: envelope
 education:
