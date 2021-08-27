@@ -16,5 +16,5 @@ education:
 email: fangyi233@mail.ustc.edu.cn
 superuser: false
 user_group:
-  - Undergraduate students
+  - Undergraduate Students
 ---
