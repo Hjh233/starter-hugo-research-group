@@ -4,7 +4,7 @@ avatar_filename: avatar
 social:
   - display:
       header: false
-    link: trayzel@mail.ustc.edu.cn
+    link: mailto:trayzel@mail.ustc.edu.cn
     icon_pack: fas
     icon: envelope
 education:
