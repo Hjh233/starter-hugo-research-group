@@ -6,7 +6,7 @@ superuser: true
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:hangyao@mail.ustc.edu.cn
+    link: mailto:haocheng.z@mail.ustc.edu.cn
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=GSeyTZUAAAAJ&hl=zh-CN
