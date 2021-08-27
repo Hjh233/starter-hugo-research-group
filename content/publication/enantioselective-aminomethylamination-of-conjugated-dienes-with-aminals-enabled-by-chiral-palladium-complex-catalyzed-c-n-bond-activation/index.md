@@ -2,7 +2,7 @@
 title: Enantioselective Aminomethylamination of Conjugated Dienes with Aminals
   Enabled by Chiral Palladium Complex-Catalyzed C-N Bond Activation
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Yang Liu
   - Yinjun Xie
