@@ -4,7 +4,7 @@ avatar_filename: avatar.png
 social: 
   - display:
       header: false
-    link: minyu@nuaa.edu.cn
+    link: mailto:minyu@nuaa.edu.cn
     icon_pack: fas
     icon: envelope
 education:
