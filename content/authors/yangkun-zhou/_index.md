@@ -1,6 +1,6 @@
 ---
 title: Yangkun Zhou
-role: test
+role: Doctoral Student
 avatar_filename: avatar.png
 social:
   - display:
