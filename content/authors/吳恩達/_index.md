@@ -1,48 +1,35 @@
 ---
-title: 黄家辉
-role: Professor of Artificial Intelligence
+title: Hanmin Huang
+role: Professor of Organic Chemistry
 avatar_filename: avatar.jpg
-organizations:
-  - name: Stanford University
-    url: ""
-  - name: University of Science and Technology of China
-superuser: false
-authors:
-  - 吳恩達
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include organic synthesis oriented metal-organic
+  chemistry, homogeneous catalysis reaction and its mechanism.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - OrganicChem
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:hanmin@ustc.edu.cn
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: hanmin@ustc.edu.cn
+    display:
+      header: false
+organizations:
+  - name: University of Science and Technology of China
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Chemistry
+      institution: Dalian Institute of Chemical Physics (DICP), CAS
+      year: 2000.9-2003.10
+    - course: MEng in Chemistry
+      institution: Huazhong University of Science and Techonology
+      year: 1997.6-2000.7
+    - course: BSc in Soil Chemistry
+      institution: Hubei Agricultural College
+      year: 1993.9-1996.7
+email: hanmin@ustc.edu.cn
+superuser: true
 user_groups:
-  - Visitors
-
+  - Professor
+highlight_name: false
 ---
-黄家辉 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
+Hanmin Huang is a professor of [the School of Chemistry and Materials Science in USTC](<https://scms.ustc.edu.cn/>). His research interests include organic synthesis oriented metal-organic chemistry, homogeneous catalysis reaction and its mechanism. He leads Huang LAB, which focuses mostly on inert chemical bond activation and asymmetrical catalyzing.
