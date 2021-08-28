@@ -1,5 +1,5 @@
 ---
-title: Hanmin Huang
+title: Test
 role: Professor of Organic Chemistry
 avatar_filename: avatar.jpg
 bio: My research interests include organic synthesis oriented metal-organic
@@ -26,7 +26,6 @@ education:
       institution: Hubei Agricultural College
       year: 1993.9-1996.7
 email: hanmin@ustc.edu.cn
-superuser: true
 user_groups:
   - Professor
 highlight_name: false
