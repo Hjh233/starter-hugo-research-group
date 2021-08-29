@@ -18,7 +18,7 @@ abstract: A novel silver-catalyzed nucleophilic substitution of aminals with
 draft: false
 featured: false
 image:
-  filename: fretured.jpg
+  filename: feature.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T12:40:23.146Z
