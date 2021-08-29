@@ -22,4 +22,4 @@ design:
   columns: '1'
 ---
 
-Huang LAB welcomes all students who have interests in organic chemistry and have ambitions. Please fill in the basic information below and make contact with us. Looking forward to your coming soon!
+Huang LAB welcomes all students who have interests in organic chemistry and have ambitions. You can make contact with us via email address given below. Looking forward to your coming soon!
