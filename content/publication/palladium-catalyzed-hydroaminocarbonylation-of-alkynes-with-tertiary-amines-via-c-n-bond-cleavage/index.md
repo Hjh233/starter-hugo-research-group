@@ -18,7 +18,7 @@ abstract: An efficient strategy for the cleavage of the CN bond of tertiary
 draft: false
 featured: false
 image:
-  filename: 14.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T11:59:12.574Z
