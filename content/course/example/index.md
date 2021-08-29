@@ -5,16 +5,16 @@ event: Organic Chemistry A1
 event_url: https://icourse.club/course/18999/
 
 address:
-  classroom: 2nd Teaching Building
-
+  street: 2nd Teaching Building
+  city: East campus
 
 summary: Basic Information about Organic Chemistry A1
 abstract: "Organic Chemistry A1 is a very important and quite fundamental course for students majoring in chemistry. Prof. Huang is one of the lecturer and you can find most of the notes and slides of the course here. We will update the materials every week."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-06"
-date_end: "2022-01-31"
+date: "2021-09-06T09:00:00Z"
+date_end: "2022-01-31T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -27,7 +27,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://github.com/Hjh233/starter-hugo-research-group/blob/main/content/event/example/featured.jpg)'
+  caption: '(https://github.com/Hjh233/starter-hugo-research-group/blob/main/content/event/example/featured.jpg)'
   focal_point: Right
 
 url_code: ""
@@ -48,6 +48,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
 ---
 
 Slides can be added in a few ways:
@@ -57,3 +58,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page.
+
