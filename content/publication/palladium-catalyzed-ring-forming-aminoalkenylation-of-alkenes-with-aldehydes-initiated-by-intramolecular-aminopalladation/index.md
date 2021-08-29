@@ -23,7 +23,7 @@ abstract: A palladium‐catalyzed aminopalladation reaction followed by
 draft: false
 featured: false
 image:
-  filename: 22.jpg
+  filename: featured.jpg.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T12:26:06.953Z
