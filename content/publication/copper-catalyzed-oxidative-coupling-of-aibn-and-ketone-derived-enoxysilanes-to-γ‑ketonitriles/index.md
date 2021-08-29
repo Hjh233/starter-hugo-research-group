@@ -18,7 +18,7 @@ abstract: A new and efficient oxidative coupling reaction between enoxysilane
 draft: false
 featured: false
 image:
-  filename: 6.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T09:47:00.011Z
