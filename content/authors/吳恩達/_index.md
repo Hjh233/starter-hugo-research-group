@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Bao Gao
 role: Professor of Organic Chemistry
 avatar_filename: avatar.jpg
 bio: My research interests include organic synthesis oriented metal-organic
