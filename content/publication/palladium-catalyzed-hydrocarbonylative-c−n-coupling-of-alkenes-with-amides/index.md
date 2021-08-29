@@ -20,7 +20,7 @@ abstract: An efficient palladium-catalyzed hydrocarbonylative C-N coupling of
 draft: false
 featured: false
 image:
-  filename: 10.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T10:32:23.536Z
