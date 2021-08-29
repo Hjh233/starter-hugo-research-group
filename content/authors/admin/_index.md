@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: hanmin@ustc.edu.cn
+    link: mailto:hanmin@ustc.edu.cn
     display:
       header: false
 organizations:
