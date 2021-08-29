@@ -24,7 +24,7 @@ abstract: A series of tetradentate sp2N/sp3N hybrid chiral N4 ligands derived
 draft: false
 featured: false
 image:
-  filename: 19.jpg
+  filename: featured.jpg.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T12:18:15.359Z
