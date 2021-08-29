@@ -21,7 +21,7 @@ abstract: >
 draft: false
 featured: false
 image:
-  filename: 15.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T12:01:10.519Z
