@@ -9,7 +9,7 @@ authors:
   - and Hanmin Huang
 doi: 10.1021/acs.orglett.7b03398
 publication: ORGANIC LETTERS
-abstract: >-
+abstract: >+
   A new, facile, and efficient protocol for the synthesis of polysubstituted
   conjugated 1,3-dienes through Ni-catalyzed tandem dimerization/cross-coupling
   reaction of diarylacetylenes and arylboronic acids in the presence of a
@@ -17,12 +17,10 @@ abstract: >-
   arylboronic acids with different substituents participated well in this
   catalytic system, affording a variety of useful conjugated 1,3-dienes.
 
-
-  关键词
 draft: false
 featured: false
 image:
-  filename: 12.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T11:51:57.656Z
