@@ -23,7 +23,7 @@ abstract: A palladium-catalyzed intramolecular hydroaminocarbonylation of
 draft: false
 featured: false
 image:
-  filename: 28.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T12:41:41.544Z
