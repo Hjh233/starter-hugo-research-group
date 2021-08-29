@@ -9,7 +9,7 @@ authors:
   - and Hanmin Huang
 doi: 10.1021/acs.orglett.7b03194
 publication: Organic Letters
-abstract: >-
+abstract: >+
   Higher pi-extended naphthalene, contained in methylnaphthalenes, which could
   capture alkyl radicals via SOMO-LUMO interactions, enabled the development of
   Cu-catalyzed formal [4 + 2] and [3 + 2] cycloadditions between
@@ -18,12 +18,10 @@ abstract: >-
   substituents were successfully incorporated with di-tert-butyl peroxide (TBP)
   as an oxidant and radical initiator, providing a wide range of cycloadducts.
 
-
-  关键词
 draft: false
 featured: false
 image:
-  filename: 13.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T11:57:03.776Z
