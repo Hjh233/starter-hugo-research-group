@@ -24,7 +24,7 @@ abstract: A novel enantioselective [4 + 2] annulation of the allenoates having a
 draft: false
 featured: false
 image:
-  filename: 23.jpg
+  filename: featured.jpg.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T12:28:07.564Z
