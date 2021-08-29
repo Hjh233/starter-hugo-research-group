@@ -19,7 +19,7 @@ abstract: A nickel-catalyzed alkylarylation of active alkenes with tertiary
 draft: false
 featured: false
 image:
-  filename: 9.jpg
+  filename: featured.jpg.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T10:27:06.880Z
