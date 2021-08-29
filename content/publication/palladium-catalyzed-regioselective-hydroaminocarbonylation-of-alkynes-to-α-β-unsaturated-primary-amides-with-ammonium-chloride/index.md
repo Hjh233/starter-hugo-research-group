@@ -26,7 +26,7 @@ abstract: α,β-Unsaturated primary amides have found numerous applications in
 draft: false
 featured: false
 image:
-  filename: 8.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T09:59:43.137Z
