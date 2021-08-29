@@ -19,7 +19,7 @@ abstract: An operationally simple and efficient copper‐catalyzed three‐compo
 draft: false
 featured: false
 image:
-  filename: 26.png
+  filename: featured.jpg.png
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T12:35:24.064Z
