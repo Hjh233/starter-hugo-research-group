@@ -19,7 +19,7 @@ abstract: A new catalyst-free protocol for aminomethylamination of
 draft: false
 featured: false
 image:
-  filename: 7.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T09:54:49.129Z
