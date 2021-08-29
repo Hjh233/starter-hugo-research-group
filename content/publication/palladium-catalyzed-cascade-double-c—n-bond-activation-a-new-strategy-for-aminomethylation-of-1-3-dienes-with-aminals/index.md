@@ -23,7 +23,7 @@ abstract: A new palladium-catalyzed selective aminomethylation of conjugated
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featuerd.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T09:42:02.239Z
