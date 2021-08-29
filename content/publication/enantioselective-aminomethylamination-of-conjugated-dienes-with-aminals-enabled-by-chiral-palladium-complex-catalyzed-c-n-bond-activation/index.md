@@ -20,7 +20,7 @@ abstract: A novel highly enantioselective aminomethylamination of conjugated
 draft: false
 featured: false
 image:
-  filename: 31.gif
+  filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T12:43:09.484Z
