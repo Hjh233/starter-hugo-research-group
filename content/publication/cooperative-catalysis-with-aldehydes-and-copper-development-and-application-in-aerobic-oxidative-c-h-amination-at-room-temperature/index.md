@@ -1,6 +1,6 @@
 ---
 title: "Cooperative Catalysis with Aldehydes and Copper: Development and
-  Application in Aerobic Oxidative CH Amination at Room Temperature"
+  Application in Aerobic Oxidative C–H Amination at Room Temperature"
 publication_types:
   - "2"
 authors:
