@@ -1,6 +1,6 @@
 ---
 title: Palladium‐Catalyzed Aminomethylation of Nitrodienes and Dienones via
-  Double C—N Bond Activation
+  Double C–N Bond Activation
 publication_types:
   - "2"
 authors:
