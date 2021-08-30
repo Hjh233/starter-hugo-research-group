@@ -1,6 +1,6 @@
 ---
 title: "Palladium-Catalyzed Allyl–Allyl Reductive Coupling of Allylamines or
-  Allylic Alcohols with H2 as Sole Reductant "
+  Allylic Alcohols with H2  as Sole Reductant "
 publication_types:
   - "2"
 authors:
