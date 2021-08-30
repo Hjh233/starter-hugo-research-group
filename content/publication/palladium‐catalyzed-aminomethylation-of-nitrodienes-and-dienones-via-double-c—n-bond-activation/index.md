@@ -12,7 +12,7 @@ authors:
 doi: " 10.1002/cjoc.202000184"
 publication: "Chinese Journal of Chemistry "
 abstract: A new strategy for the generation of the active Pd‐alkyl species from
-  aminal via C—N bond activation has been established.
+  aminal via C-N bond activation has been established.
 draft: false
 featured: false
 tags:
