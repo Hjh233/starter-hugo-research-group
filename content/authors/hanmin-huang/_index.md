@@ -5,7 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include organic synthesis oriented metal-organic
   chemistry, homogeneous catalysis reaction and its mechanism.
 interests:
-  - OrganicChem
+  - Professor, PhD Supervisor, School of Chemistry and Material Science, USTC & HFNL, 2016.3-Present
+  - Researcher, PhD Supervisor, Deputy Director of State Key Laboratory, LICP, 2008.4-2016.2
+  - JSPS Fellow, RCMS, Nagoya University, 2004.9-2008.3
 social:
   - icon: envelope
     icon_pack: fas
