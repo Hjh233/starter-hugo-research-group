@@ -2,7 +2,7 @@
 title: "Silver-Catalyzed Nucleophilic Substitution of Aminals with Ethyl
   Diazoacetate: A New Pathway to β-Amino-α-Diazoesters"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Jiawen Li
   - Guiping Qin
@@ -21,5 +21,5 @@ image:
   filename: feature.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-08-27T12:40:23.146Z
+date: 2016-10-20T12:40:23.146Z
 ---
