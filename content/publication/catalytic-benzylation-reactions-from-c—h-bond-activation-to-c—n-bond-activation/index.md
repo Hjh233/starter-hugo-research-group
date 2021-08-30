@@ -11,8 +11,8 @@ authors:
 doi: 10.1002/cjoc.202000567
 publication: "Chinese Journal of Chemistry "
 abstract: " our group's efforts on catalytic benzylation reactions via directed
-  C—H activation, nondirected C—H activation and C—N bond activation are
-  summarized"
+  C-H activation, nondirected C-H activation and C-N bond activation are
+  summarized."
 draft: false
 featured: false
 tags:
