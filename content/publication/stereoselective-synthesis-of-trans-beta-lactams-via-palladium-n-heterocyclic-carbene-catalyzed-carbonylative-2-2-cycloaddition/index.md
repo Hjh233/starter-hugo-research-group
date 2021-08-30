@@ -1,6 +1,6 @@
 ---
-title: Stereoselective Synthesis of trans <beta>-Lactams via
-  Palladium/N-Heterocyclic Carbene-Catalyzed Carbonylative [2+2] Cycloaddition
+title: Stereoselective Synthesis of trans β-Lactams via Palladium/N-Heterocyclic
+  Carbene-Catalyzed Carbonylative [2+2] Cycloaddition
 publication_types:
   - "2"
 authors:
@@ -24,5 +24,5 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-08-29T08:49:32.593Z
+date: 2012-03-28T01:00:00.000Z
 ---
