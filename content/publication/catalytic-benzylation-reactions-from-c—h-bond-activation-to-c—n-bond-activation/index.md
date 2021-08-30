@@ -1,5 +1,5 @@
 ---
-title: "Catalytic Benzylation Reactions: From C—H Bond Activation to C—N Bond
+title: "Catalytic Benzylation Reactions: From C–H Bond Activation to C–N Bond
   Activation "
 publication_types:
   - "2"
