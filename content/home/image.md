@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: ""
     image_darken: 0
     image_parallax: false
     image_position: center
@@ -24,4 +24,3 @@ design:
       - 20px
       - "0"
 ---
-This is again a test
