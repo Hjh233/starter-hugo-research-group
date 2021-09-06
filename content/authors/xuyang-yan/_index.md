@@ -1,25 +1,25 @@
 ---
-title: Zhiting Wang
+title: Xuyang Yan
 role: 
 avatar_filename: avatar.png
 social: 
   - display:
       header: false
-    link: mailto:wztsdqw@mail.ustc.edu.cn
+    link: mailto:yanxuyang1994@163.com
     icon_pack: fas
     icon: envelope
 education:
   courses:
-    - course: BSc in pharmacy
-      institution: Taiyuan Institute of Technology
-      year: 2012.9-2016.6
-    - course: MEng in Organic Chemistry
-      institution: Nanjing Technology University
-      year: 2016.9-2019.9
-    - course: PhD in Organic Chemistry
-      institution: University of Science and Technology of China
-      year: 2020.9-
-email: wztsdqw@mail.ustc.edu.cn
+    - course:PhD in Chemistry
+      institution: University of Science and Technolgy of China
+      year: 2018.09-
+    - course:MEng in Chemistry
+      institution: Henan Normal University
+      year: 2016.09-2018.07 
+    - course:BSc in Chemistry
+      institution: Henan Normal University
+      year: 2012.09-2016.07 
+email: yanxuyang1994@163.com
 superuser: false
 user_groups:
   - PhD Students
