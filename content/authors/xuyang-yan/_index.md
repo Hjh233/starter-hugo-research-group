@@ -1,7 +1,7 @@
 ---
 title: Xuyang Yan
 role: 
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
