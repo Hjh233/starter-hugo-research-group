@@ -10,11 +10,18 @@ social:
     icon: envelope
 education:
   courses:
-    - course:
-      institution: University of Science and Technology of China
-      year: 2018- 
+    - course:PhD in Chemistry
+      institution: University of Science and Technolgy of China
+      year: 2018.09-
+    - course:MEng in Chemistry
+      institution: Henan Normal University
+      year: 2016.09-2018.07 
+    - course:BSc in Chemistry
+      institution: Henan Normal University
+      year: 2012.09-2016.07 
+      
 email: yanxuyang1994@163.com
 superuser: false
 user_groups:
-  - Researchers
+  - PhD s
 ---
