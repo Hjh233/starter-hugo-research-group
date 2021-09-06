@@ -1,3 +1,4 @@
+---
 title: Xuyang Yan
 role: 
 avatar_filename: avatar.jpg
@@ -23,3 +24,5 @@ email: yanxuyang1994@163.com
 superuser: false
 user_groups:
   - PhD Students
+
+---
