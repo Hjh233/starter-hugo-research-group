@@ -23,5 +23,5 @@ education:
 email: yanxuyang1994@163.com
 superuser: false
 user_groups:
-  - PhD s
+  - PhD Students
 ---
