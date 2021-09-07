@@ -20,5 +20,5 @@ education:
 email: dingyz@ustc.edu.cn
 superuser: false
 user_groups:
-  - Postdoctoral Scholars
+  - Special Research Fellows
 ---
