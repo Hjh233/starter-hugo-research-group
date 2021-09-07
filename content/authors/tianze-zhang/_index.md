@@ -19,5 +19,5 @@ education:
 email: trayzel@mail.ustc.edu.cn
 superuser: false
 user_groups:
-  - Postgraduate Students
+  - PhD Students
 ---
