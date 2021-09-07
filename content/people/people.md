@@ -18,6 +18,7 @@ content:
   user_groups:
   - Professor
   - Principal Investigators
+  - Special Research Fellows
   - Researchers
   - Postdoctoral Scholars
   - PhD Students
