@@ -21,6 +21,5 @@ education:
     
 email: haocheng.z@mail.ustc.edu.cn
 user_groups:
-  - Postgraduate Students
-
+  - PhD Students
 ---
