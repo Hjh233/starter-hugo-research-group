@@ -1,5 +1,6 @@
 ---
 title: Yongzheng Ding
+role: Special Associate Proffesor Researcher
 avatar_filename: avatar.png
 social: 
   - display:
