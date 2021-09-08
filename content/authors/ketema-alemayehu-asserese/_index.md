@@ -1,5 +1,5 @@
 ---
-title: Ketema Alemayehu Asserese
+title: Ketema Alemayehu
 role: Doctoral Student
 avatar_filename: avatar.jpg
 social:
