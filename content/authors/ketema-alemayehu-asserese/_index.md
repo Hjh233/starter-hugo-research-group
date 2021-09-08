@@ -12,10 +12,10 @@ education:
   courses:
     - course: BSc in chemistry
       institution: Hawassa University
-      year: 20119
+      year: 2009.9-2011.07
     - course: "MSc in Organic Chemistry "
       institution: Mekelle University
-      year: 20137
+      year: 2011.09-2013.07
 email: ketema2854@mail.ustc.edu.cn
 superuser: false
 user_groups:
