@@ -15,6 +15,6 @@ education:
       year: 2019.6-
 email: jzzhangchi1102@mail.ustc.edu.cn
 superuser: false
-user_group:
+user_groups:
   - Undergraduate Students
 ---
