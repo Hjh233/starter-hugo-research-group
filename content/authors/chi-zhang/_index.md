@@ -1,5 +1,5 @@
 ---
-title: Chi Zhang
+title: Chi Zhang(张驰)
 role: Undergraduate
 avatar_filename: avatar.jpg
 social:
