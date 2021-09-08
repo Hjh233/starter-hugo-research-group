@@ -1,7 +1,7 @@
 ---
 title: Chi Zhang
 role: Undergraduate
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
