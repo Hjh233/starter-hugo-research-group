@@ -15,6 +15,6 @@ education:
       year: 2019.6-
 email: zchy0763@163.com
 superuser: false
-user_group:
+user_groups:
   - Undergraduate Students
 ---
