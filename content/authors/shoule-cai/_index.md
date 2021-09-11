@@ -1,5 +1,6 @@
 ---
 title: Shoule Cai
+role: Doctoral Student
 avatar_filename: avatar.png
 social:
   - display:
