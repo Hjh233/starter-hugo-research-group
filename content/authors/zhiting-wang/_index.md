@@ -1,6 +1,6 @@
 ---
 title: Zhiting Wang
-role: 
+role: Doctoral Student
 avatar_filename: avatar.png
 social: 
   - display:
