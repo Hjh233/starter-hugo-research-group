@@ -1,6 +1,6 @@
 ---
 title: Xuyang Yan
-role: 
+role: Doctoral Student
 avatar_filename: avatar.png
 social: 
   - display:
