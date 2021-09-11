@@ -1,5 +1,6 @@
 ---
 title: Renbin Huang
+role: postgraduate
 avatar_filename: avatar.png
 social:
   - display:
