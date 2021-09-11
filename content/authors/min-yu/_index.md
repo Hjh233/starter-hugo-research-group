@@ -1,5 +1,6 @@
 ---
 title: Min Yu
+role: Postdoctoral Scholar
 avatar_filename: avatar.png
 social: 
   - display:
