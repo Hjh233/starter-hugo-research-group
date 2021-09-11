@@ -1,5 +1,6 @@
 ---
 title: Tianze Zhang
+role: Doctoral Student
 avatar_filename: avatar
 social:
   - display:
