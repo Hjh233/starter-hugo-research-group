@@ -1,6 +1,6 @@
 ---
 title: Bangkui Yu
-role: Postdoctoral Scholars
+role: Postdoctoral Scholar
 avatar_filename: avatar.png
 social:
   - display:
