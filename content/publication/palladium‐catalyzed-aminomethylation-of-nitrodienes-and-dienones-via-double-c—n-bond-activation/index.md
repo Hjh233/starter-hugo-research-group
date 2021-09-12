@@ -9,7 +9,7 @@ authors:
   - Xuexia Zhang
   - Haocheng Zhang
   - Hanmin Huang
-doi: " 10.1002/cjoc.202000184"
+doi: 10.1002/cjoc.202000184
 publication: "Chinese Journal of Chemistry "
 abstract: A new strategy for the generation of the active Pd‐alkyl species from
   aminal via C-N bond activation has been established.
