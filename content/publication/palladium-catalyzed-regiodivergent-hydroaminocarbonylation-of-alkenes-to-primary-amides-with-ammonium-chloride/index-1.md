@@ -7,7 +7,7 @@ authors:
   - Bao Gao
   - Guoying Zhang
   - Xibing Zhou
-  - and Hanmin Huang
+  - Hanmin Huang
 doi: 10.1039/c7sc04054g
 publication: "Chemical Science "
 abstract: >
