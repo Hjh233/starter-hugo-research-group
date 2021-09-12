@@ -22,7 +22,7 @@ abstract: Asymmetric catalytic C–C coupling reactions via C–H bond activatio
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-08-29T08:44:06.788Z
