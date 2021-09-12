@@ -26,5 +26,5 @@ image:
   filename: featuerd.jpg
   focal_point: Smart
   preview_only: false
-date: 2018-08-20T09:42:02.239Z
+date: 2018-07-15T09:42:02.239Z
 ---
