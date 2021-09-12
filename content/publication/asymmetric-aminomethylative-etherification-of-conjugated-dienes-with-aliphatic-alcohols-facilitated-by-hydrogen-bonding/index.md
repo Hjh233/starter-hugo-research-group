@@ -11,10 +11,20 @@ authors:
   - Hanmin Huang
 doi: 10.1021/jacs.1c06144
 publication: "Journal of the American Chemical Society "
-abstract: "we report the development of an additive-free, palladium-catalyzed
-  asymmetric aminomethylative etherification of conjugated dienes that enables
-  the efficient, asymmetric O-allylation of primary and secondary aliphatic
-  alcohols as well as water. "
+abstract: The asymmetric construction of allylic C–O bonds with primary or
+  secondary aliphatic alcohols remains a substantial challenge in Pd-catalyzed
+  allylation chemistry. Here, we report the development of an additive-free,
+  palladium-catalyzed asymmetric aminomethylative etherification of conjugated
+  dienes that enables the efficient, asymmetric O-allylation of primary and
+  secondary aliphatic alcohols as well as water. Mechanism studies revealed that
+  the hydrogen-bonding interaction between the alcohol and the in situ
+  introduced aminomethyl moiety is critical to facilitate the nucleophilic
+  addition of the alcohol to the π-allylpalladium species, which opened up the
+  possibility of using aliphatic alcohols and water as nucleophilic substrates.
+  This reaction tolerates a broad range of functional groups and shows
+  remarkable regioselectivities and uniformly high enantioselectivities, which
+  provides a direct and rapid approach to optically pure allylic 1,3-amino
+  ethers and 1,3-amino alcohols from simple starting materials.
 draft: false
 featured: false
 tags:
