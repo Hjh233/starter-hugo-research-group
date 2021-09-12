@@ -7,6 +7,7 @@ authors:
   - Cuifang Qiao
   - Jianhua Hu
   - Hanmin Huang
+doi: 10.1021/ja0170448
 publication: Journal of Molecular Catalysis (China)
 abstract: We have developed a Lewis acid catalyzed three-component reaction of
   enol ethers,aminals and alcohols. The reaction system can provide a facile
@@ -18,5 +19,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-26T09:22:38.817Z
+date: 2001-11-16T09:22:38.817Z
 ---
