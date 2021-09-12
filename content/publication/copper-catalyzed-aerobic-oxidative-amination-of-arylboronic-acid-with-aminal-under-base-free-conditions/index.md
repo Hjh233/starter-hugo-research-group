@@ -18,7 +18,7 @@ abstract: A new process involving copper-catalyzed oxidative amination reaction
   process was generated via C-N bond cleavage of aminal under base-free
   conditions. Moderate yields of desired amination products can be obtained
   under mild conditions when air was served as oxidant and PhCO2H was used as an
-  additive. (c) 2013 Elsevier Ltd. All rights reserved.
+  additive.
 draft: false
 featured: false
 image:
