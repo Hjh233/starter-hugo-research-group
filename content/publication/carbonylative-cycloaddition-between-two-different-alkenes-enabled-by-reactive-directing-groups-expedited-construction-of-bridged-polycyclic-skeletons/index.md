@@ -1,7 +1,7 @@
 ---
 title: "Carbonylative cycloaddition between two different alkenes enabled by
   reactive directing groups: expedited construction of bridged polycyclic
-  skeletons. "
+  skeletons "
 publication_types:
   - "2"
 authors:
@@ -14,7 +14,9 @@ doi: 10.1039/d0cc05362g
 publication: "Chemical Communications "
 abstract: A novel palladium-catalyzed highly selective hydrocarbonylative
   cycloaddition reaction with two different alkenes in the presence of CO
-  enabled by a reactive directing-group is developed.
+  enabled by a reactive directing-group is developed, which offers efficient and
+  convenient access to lactone-containing bridged polycyclic compounds in high
+  yield with high chemo- and stereoselectivities.
 draft: false
 featured: false
 tags:
