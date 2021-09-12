@@ -10,8 +10,15 @@ authors:
   - Hanmin Huang
 doi: 10.1021/acs.orglett.0c03865
 publication: Organic Letters
-abstract: Herein an efficient strategy enabling H2 as the sole reductant for the
-  palladium-catalyzed allyl–allyl reductive coupling reaction is described.
+abstract: Catalytic carbon–carbon bond formation building on reductive coupling
+  is a powerful method for the preparation of organic compounds. The
+  identification of environmentally benign reductants is key for establishing an
+  efficient reductive coupling reaction. Herein an efficient strategy enabling
+  H2 as the sole reductant for the palladium-catalyzed allyl–allyl reductive
+  coupling reaction is described. A wide range of allylamines and allylic
+  alcohols as well as allylic ethers proceed smoothly to deliver the C–C
+  coupling products under 1 atm of H2. Kinetic studies suggested that the
+  dinuclear palladium species was involved in the catalytic cycle.
 draft: false
 featured: false
 tags:
