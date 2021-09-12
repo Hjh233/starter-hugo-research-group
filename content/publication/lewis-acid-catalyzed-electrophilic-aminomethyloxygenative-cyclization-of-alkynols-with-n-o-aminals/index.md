@@ -1,6 +1,6 @@
 ---
-title: "Lewis Acid Catalyzed Electrophilic Aminomethyloxygenative Cyclization of
-  Alkynols with N,O-Aminals. "
+title: Lewis Acid Catalyzed Electrophilic Aminomethyloxygenative Cyclization of
+  Alkynols with N,O-Aminals
 publication_types:
   - "2"
 authors:
@@ -8,7 +8,7 @@ authors:
   - Houjian Yu
   - Jiaqi Yan
   - Hanmin Huang
-doi: " 10.1021/acs.orglett.9b04630"
+doi: 10.1021/acs.orglett.9b04630
 publication: Organic Letters
 draft: false
 featured: false
