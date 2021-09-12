@@ -12,9 +12,13 @@ authors:
   - Hanmin Huang
 doi: 10.1039/d0ob02529a
 publication: Organic & Biomolecular Chemistry
-abstract: An approach for the synthesis of quinolizinone with potential
-  bioactivity has been developed via palladium-catalytic dearomative
-  cyclocarbonylation of allyl alcohol.
+abstract: >+
+  An approach for the synthesis of quinolizinone with potential bioactivity has
+  been developed via palladium-catalytic dearomative cyclocarbonylation of allyl
+  alcohol. Diverse quinolizinone compounds could be attained with good
+  efficiencies. A feasible reaction pathway could be a successive procedure of
+  allylation, dearomatization, CO insertion and the Heck reaction.
+
 draft: false
 featured: false
 tags:
