@@ -4,9 +4,9 @@ title: Cu-Catalyzed Direct C-H Amination of 2-Alkylazaarenes with
 publication_types:
   - "2"
 authors:
-  - BoQian
-  - LeiYang
-  - HanminHuang
+  - Bo Qian
+  - Lei Yang
+  - Hanmin Huang
 doi: 10.1016/j.tetlet.2012.12.055
 publication: Tetrahedron Letters
 abstract: An efficient Cu-catalyzed C–H amination of 2-alkylazaarenes with
