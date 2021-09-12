@@ -23,5 +23,5 @@ image:
   filename: featured.jpg.gif
   focal_point: Smart
   preview_only: false
-date: 2017-01-09T11:51:57.656Z
+date: 2017-12-01T11:51:57.656Z
 ---
