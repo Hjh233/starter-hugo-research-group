@@ -6,7 +6,8 @@ publication_types:
 authors:
   - Han Zhou
   - Hanmin Huang
-publication: 10.1002/cctc.201300080
+doi: 10.1002/cctc.201300080
+publication: ChemCatChem
 abstract: An efficient Ru catalyst constructed from simple and commercially
   available triphenylphosphane and enantiopure (1S,1'S)-1,1-biisoindoline (BIDN)
   was applied to the asymmetric hydrogenation of aromatic ketones. A range of
@@ -22,5 +23,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-29T07:57:00.659Z
+date: 2013-04-08T07:57:00.659Z
 ---
