@@ -4,7 +4,7 @@ title: Readily Available and Recoverable Chiral Ionic Phosphite Ligands for the
 publication_types:
   - "2"
 authors:
-  - 82.	Yingwei Zhao
+  - Yingwei Zhao
   - Hanmin Huang
   - Jianping Shao
   - Chungu Xia
@@ -21,5 +21,5 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-08-29T09:15:45.743Z
+date: 2011-04-11T09:15:45.743Z
 ---
