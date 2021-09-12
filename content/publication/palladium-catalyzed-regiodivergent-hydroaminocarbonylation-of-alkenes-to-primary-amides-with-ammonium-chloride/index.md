@@ -7,7 +7,7 @@ authors:
   - Bao Gao
   - Guoying Zhang
   - Xibing Zhou
-  - and Hanmin Huang
+  - Hanmin Huang
 doi: 10.1039/c7sc04054g
 publication: " Chem. Sci. "
 abstract: Palladium-catalyzed hydroaminocarbonylation of alkenes for the
@@ -26,5 +26,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-27T10:35:05.001Z
+date: 2017-10-24T10:35:05.001Z
 ---
