@@ -10,7 +10,7 @@ authors:
   - Bao Gao
   - Bin Hu
   - Hanmin Huang
-doi: " 10.1039/d0ob02529a"
+doi: 10.1039/d0ob02529a
 publication: Organic & Biomolecular Chemistry
 abstract: An approach for the synthesis of quinolizinone with potential
   bioactivity has been developed via palladium-catalytic dearomative
