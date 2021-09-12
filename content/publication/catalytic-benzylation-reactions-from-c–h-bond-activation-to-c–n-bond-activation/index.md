@@ -25,8 +25,8 @@ featured: false
 tags:
   - Benzylation
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-08-30T12:19:56.625Z
+date: 2020-11-26T12:19:56.625Z
 ---
