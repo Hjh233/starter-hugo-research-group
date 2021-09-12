@@ -4,7 +4,7 @@ title: Palladium-Catalyzed Oxidative Carbonylation of Benzylic C-H Bonds via
 publication_types:
   - "2"
 authors:
-  - 72.	Pan Xie
+  - Pan Xie
   - Yinjun Xie
   - Bo Qian
   - Han Zhou
