@@ -16,7 +16,7 @@ abstract: 1,3-Diamines not only are significant motifs in natural products, but
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2016-10-18T12:38:48.433Z
