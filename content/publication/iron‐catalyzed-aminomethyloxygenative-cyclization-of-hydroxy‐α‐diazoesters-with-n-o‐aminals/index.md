@@ -8,7 +8,7 @@ authors:
   - Tianze Zhang
   - Siyuan Wang
   - Hanmin Huang
-doi: " 10.1002/cjoc.201900492"
+doi: 10.1002/cjoc.201900492
 publication: "Chinese Journal of Chemistry "
 abstract: A new and efficient cyclization reaction has been developed to
   synthesize cyclic α,α‐disubstituted β‐amino esters via iron‐catalyzed
