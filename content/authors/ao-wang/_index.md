@@ -10,9 +10,9 @@ social:
       header: false
 education:
   courses:
-    - course:
-      instruction:
-      year:
+    - course: BSc in Chemistry
+      instruction: University of Science and Technology of China
+      year: 2020.9-
 email: wadr@mail.ustc.edu.cn
 superuser: false
 user_groups:
